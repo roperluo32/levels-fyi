@@ -1,0 +1,5176 @@
+{
+  "Software Engineer": {
+    "Google": [
+      {
+        "titles": [
+          "L3",
+          "SWE II"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 110000,
+            "bonus": 16125,
+            "stock": 49000
+          }
+        ],
+        "description": "L3 / T3 is the new grad software engineering role at Google"
+      },
+      {
+        "titles": [
+          "L4",
+          "SWE III"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 130000,
+            "bonus": 49000,
+            "stock": 49000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "L5",
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 160000,
+            "bonus": 100000,
+            "stock": 100000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "L6",
+          "Staff SWE"
+        ],
+        "percentWorkforce": 15,
+        "packages": [
+          {
+            "salary": 207500,
+            "bonus": 200000,
+            "stock": 172000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "L7",
+          "Senior Staff SWE"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L8",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "L9",
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 3
+      },
+      {
+        "titles": [
+          "L10",
+          "Google Fellow"
+        ],
+        "percentWorkforce": 3
+      }
+    ],
+    "Amazon": [
+      {
+        "titles": [
+          "SDE I",
+          "L4"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 116000,
+            "bonus": 15000,
+            "stock": 22625
+          }
+        ]
+      },
+      {
+        "titles": [
+          "SDE II",
+          "L5"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 120000,
+            "bonus": 30000,
+            "stock": 25000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "SDE III",
+          "Senior SDE",
+          "L6"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 140000,
+            "bonus": 33000,
+            "stock": 38769
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Principal SDE",
+          "L7"
+        ],
+        "percentWorkforce": 15,
+        "packages": [
+          {
+            "salary": 160000,
+            "bonus": 35000,
+            "stock": 250000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Senior Principal SDE",
+          "L8"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished Engineer",
+          "L10"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Microsoft": [
+      {
+        "titles": [
+          "SDE",
+          "59"
+        ],
+        "percentWorkforce": 7,
+        "packages": [
+          {
+            "salary": 110000,
+            "bonus": 14500,
+            "stock": 12500
+          }
+        ]
+      },
+      {
+        "titles": [
+          "60"
+        ],
+        "percentWorkforce": 7,
+        "packages": [
+          {
+            "salary": 115000,
+            "bonus": 16500,
+            "stock": 12500
+          }
+        ]
+      },
+      {
+        "titles": [
+          "SDE II",
+          "61"
+        ],
+        "percentWorkforce": 10,
+        "packages": [
+          {
+            "salary": 123000,
+            "bonus": 18000,
+            "stock": 13000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "62"
+        ],
+        "percentWorkforce": 7,
+        "packages": [
+          {
+            "salary": 123000,
+            "bonus": 20000,
+            "stock": 13000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Senior SDE",
+          "63"
+        ],
+        "percentWorkforce": 10,
+        "packages": [
+          {
+            "salary": 145733,
+            "bonus": 22000,
+            "stock": 24000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "64"
+        ],
+        "percentWorkforce": 7,
+        "packages": [
+          {
+            "salary": 145733,
+            "bonus": 23000,
+            "stock": 24000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Principal SDE",
+          "65"
+        ],
+        "percentWorkforce": 10,
+        "packages": [
+          {
+            "salary": 179000,
+            "bonus": 28000,
+            "stock": 43000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "66"
+        ],
+        "percentWorkforce": 5,
+        "packages": [
+          {
+            "salary": 183000,
+            "bonus": 28000,
+            "stock": 45000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "67"
+        ],
+        "percentWorkforce": 5,
+        "packages": [
+          {
+            "salary": 195000,
+            "bonus": 40000,
+            "stock": 105000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Partner",
+          "68"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "69"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "70",
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "80",
+          "Technical Fellow"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Facebook": [
+      {
+        "titles": [
+          "E3"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 107000,
+            "bonus": 10800,
+            "stock": 33750
+          }
+        ]
+      },
+      {
+        "titles": [
+          "E4"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 138500,
+            "bonus": 33750,
+            "stock": 33750
+          }
+        ]
+      },
+      {
+        "titles": [
+          "E5"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 170000,
+            "bonus": 62500,
+            "stock": 62500
+          }
+        ]
+      },
+      {
+        "titles": [
+          "E6"
+        ],
+        "percentWorkforce": 15,
+        "packages": [
+          {
+            "salary": 200000,
+            "bonus": 118750,
+            "stock": 118750
+          }
+        ]
+      },
+      {
+        "titles": [
+          "E7"
+        ],
+        "percentWorkforce": 10,
+        "packages": [
+          {
+            "salary": 265000,
+            "bonus": 120000,
+            "stock": 120000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "E8"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "E9"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "DoorDash": [
+      {
+        "titles": [
+          "E3"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "E4"
+        ],
+        "percentWorkforce": 26
+      },
+      {
+        "titles": [
+          "E5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "E6"
+        ],
+        "percentWorkforce": 14.000000000000002
+      },
+      {
+        "titles": [
+          "E7"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "E8"
+        ],
+        "percentWorkforce": 6
+      }
+    ],
+    "Visa": [
+      {
+        "titles": [
+          "Associate Software Engineer",
+          "L3"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer",
+          "L4"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "L5"
+        ],
+        "percentWorkforce": 26
+      },
+      {
+        "titles": [
+          "Staff Software Engineer",
+          "L6"
+        ],
+        "percentWorkforce": 21
+      },
+      {
+        "titles": [
+          "Senior Staff Software Engineer",
+          "L7"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Lead Software Engineer",
+          "L8"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Chief Software Engineer",
+          "L9"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 4
+      }
+    ],
+    "Intercom": [
+      {
+        "titles": [
+          "Product Engineer 1"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Product Engineer 2"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Product Engineer 3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Product Engineer"
+        ],
+        "percentWorkforce": 26
+      },
+      {
+        "titles": [
+          "Principal Product Engineer"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "Senior Principal Product Engineer"
+        ],
+        "percentWorkforce": 13
+      }
+    ],
+    "SoFi": [
+      {
+        "titles": [
+          "Associate SWE"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Baseline SWE"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Senior SWE"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "Staff SWE"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Sr. Staff SWE"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Principal SWE "
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Fellow SWE"
+        ],
+        "percentWorkforce": 24
+      }
+    ],
+    "Just Eat": [
+      {
+        "titles": [
+          "L50",
+          "Associate/Graduate"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L51",
+          "Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L52",
+          "Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L53",
+          "Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L54",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L55",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L56",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L57",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L58",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L59",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L60",
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Careem": [
+      {
+        "titles": [
+          "Member of Technical Staff 1"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Member of Technical Staff 2"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Member of Technical Staff 3"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Lead Software Engineer 1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Lead Software Engineer 2"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Lead Software Engineer 3"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Principal Software Engineer 1"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Principal Software Engineer 2"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Distinguished Software Engineer"
+        ],
+        "percentWorkforce": 13
+      }
+    ],
+    "Flipkart": [
+      {
+        "titles": [
+          "SDE 1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "SDE 2"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "SDE 3"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "SDE 4",
+          "Tech Lead"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Architect"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Sr. Architect"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal Architect"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Broadcom": [
+      {
+        "titles": [
+          "ICB 1"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "ICB 2"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "ICB 3",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "ICB 4",
+          "Staff Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "ICB 5",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "ICB 6",
+          "Master"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "ICB 7",
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "ICB 8",
+          "Fellow"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Comcast": [
+      {
+        "titles": [
+          "Engineer 1",
+          "I"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Engineer 2",
+          "II"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Engineer 3",
+          "III"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 22
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Senior Principal Engineer"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Fellow"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Stripe": [
+      {
+        "titles": [
+          "L1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "L2"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Quora": [
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L7"
+        ],
+        "percentWorkforce": 15
+      }
+    ],
+    "Yelp": [
+      {
+        "titles": [
+          "IC1",
+          "New Grad"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "IC2"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "IC3"
+        ],
+        "percentWorkforce": 26
+      },
+      {
+        "titles": [
+          "IC4"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "IC5"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "IC6"
+        ],
+        "percentWorkforce": 8
+      }
+    ],
+    "Adobe": [
+      {
+        "titles": [
+          "Software Engineer 1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer 2"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Software Engineer 3"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Software Engineer (4)",
+          "4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Software Engineer (5)",
+          "5"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Senior Software Engineer (5.5)",
+          "5.5"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Principal Software Engineer",
+          "6"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Senior Principal Engineer"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Engineering Fellow"
+        ],
+        "percentWorkforce": 14.000000000000002
+      }
+    ],
+    "Nextdoor": [
+      {
+        "titles": [
+          "L1"
+        ],
+        "percentWorkforce": 19
+      },
+      {
+        "titles": [
+          "L2"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 13
+      }
+    ],
+    "Autodesk": [
+      {
+        "titles": [
+          "Software Engineer 1",
+          "Grade 8"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer 2",
+          "Grade 9"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer 3",
+          "Grade 10"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Senior Software Engineer 1",
+          "Grade 11"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Software Engineer 2",
+          "Grade 12"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Principal Engineer",
+          "Grade 13"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Sr. Principal Engineer/SW Architect",
+          "Grade 14"
+        ],
+        "percentWorkforce": 7.000000000000001
+      },
+      {
+        "titles": [
+          "Sr SW Architect/Director/Sr. Director",
+          "Grade 15"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Chief Architect/Sr. Director",
+          "Grade 16"
+        ],
+        "percentWorkforce": 21
+      },
+      {
+        "titles": [
+          "Autodesk Fellow",
+          "Grade 17"
+        ],
+        "percentWorkforce": 7.000000000000001
+      }
+    ],
+    "LinkedIn": [
+      {
+        "titles": [
+          "Software Engineer"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 124000,
+            "bonus": 10000,
+            "stock": 50000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 162000,
+            "bonus": 16200,
+            "stock": 75000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Staff Software Engineer"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 180000,
+            "bonus": 27000,
+            "stock": 143000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Senior Staff Software Engineer"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Principal Staff Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 14
+      }
+    ],
+    "Uber": [
+      {
+        "titles": [
+          "Software Engineer I",
+          "3"
+        ],
+        "packages": [
+          {
+            "salary": 120000,
+            "bonus": 5125,
+            "stock": 12000
+          }
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Software Engineer II",
+          "4"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "5a"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Software Engineer II",
+          "5b"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Staff Software Engineer",
+          "6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Staff Software Engineer",
+          "7"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Netflix": [
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "Only one level across Netflix"
+        ],
+        "percentWorkforce": 100
+      }
+    ],
+    "Apple": [
+      {
+        "titles": [
+          "ICT2"
+        ],
+        "percentWorkforce": 10,
+        "packages": [
+          {
+            "salary": 95000,
+            "bonus": 8000,
+            "stock": 20000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "ICT3"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 130000,
+            "bonus": 30000,
+            "stock": 50000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "ICT4"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 165000,
+            "bonus": 16000,
+            "stock": 179000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "ICT5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "ICT6"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "eBay": [
+      {
+        "titles": [
+          "SE 1",
+          "Software Engineer 1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "SE 2"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "SE 3"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "MTS 1",
+          "Member of Technical Staff 1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "MTS 2"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Senior MTS"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal MTS"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished MTS"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Salesforce": [
+      {
+        "titles": [
+          "Associate MTS",
+          "Associate Member of Technical Staff",
+          "Associate Software Engineer"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "MTS",
+          "Software Engineer (SWE)"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Senior MTS",
+          "Senior SWE"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Lead MTS",
+          "Lead SWE"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "Principal MTS",
+          "Principal SWE"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Architect"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Principal Architect"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 8.5
+      }
+    ],
+    "Palantir": [
+      {
+        "titles": [
+          "Software Engineer",
+          "FDE - Forward Deployed Engineer (different roles, but same starting level, only one level across Palantir)"
+        ],
+        "percentWorkforce": 100
+      }
+    ],
+    "Symantec": [
+      {
+        "titles": [
+          "SE 1",
+          "Associate Software Engineer"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "SE 2",
+          "Software Engineer"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "SE 3",
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "SE 4",
+          "Principal Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "SE 5",
+          "Senior Principal Software Engineer"
+        ],
+        "percentWorkforce": 8.5
+      },
+      {
+        "titles": [
+          "Technical Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Technical Director",
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "VP",
+          "Fellow"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Oracle": [
+      {
+        "titles": [
+          "IC-2",
+          "Member of Technical Staff"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC-3",
+          "Senior MTS"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC-4",
+          "Principal MTS"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC-5",
+          "Consulting MTS"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC-6",
+          "Architect"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "NetApp": [
+      {
+        "titles": [
+          "MTS I"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "MTS II"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "MTS III"
+        ],
+        "packages": [
+          {
+            "salary": 142000,
+            "stock": 15000
+          }
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "MTS IV"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "MTS V",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "MTS VI",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "MTS VII",
+          "Technical Director"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "MTS VIII",
+          "Senior Technical Director"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Intuit": [
+      {
+        "titles": [
+          "Software Engineer 1"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Software Engineer 2"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Staff Software Engineer"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Principal / Architect"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished Principal / Architect"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Engineering Fellow"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Yahoo": [
+      {
+        "titles": [
+          "Associate Software Engineer",
+          "IC1"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Interim Software Engineer",
+          "IC2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer",
+          "IC3"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "IC4"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Principal Software Engineer",
+          "IC5"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "Senior Principal SE",
+          "IC6"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Distinguished Engineer",
+          "IC7"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "-     Fellow     -",
+          "IC8"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "-  Senior Fellow  -",
+          "IC9"
+        ],
+        "percentWorkforce": 3
+      }
+    ],
+    "VMware": [
+      {
+        "titles": [
+          "Member of Technical Staff (MTS 1)"
+        ],
+        "packages": [
+          {
+            "salary": 95000,
+            "bonus": 11400,
+            "stock": 7500
+          }
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "MTS 2"
+        ],
+        "packages": [
+          {
+            "salary": 120000,
+            "bonus": 17000,
+            "stock": 18000
+          }
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "MTS 3"
+        ],
+        "packages": [
+          {
+            "salary": 135000,
+            "bonus": 20000,
+            "stock": 30000
+          }
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior MTS"
+        ],
+        "packages": [
+          {
+            "salary": 160000,
+            "bonus": 28900,
+            "stock": 40000
+          }
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Staff Engineer 1"
+        ],
+        "packages": [
+          {
+            "salary": 215000,
+            "bonus": 43000,
+            "stock": 100000
+          }
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Staff Engineer 2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Staff Engineer"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Fellow"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Dell": [
+      {
+        "titles": [
+          "Software Engineer I",
+          "L5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Software Engineer II",
+          "L6"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "L7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Principal Engineer",
+          "L8"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Principal Engineer",
+          "L9"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Technical Staff",
+          "L10"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Technical Staff",
+          "L11"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Spotify": [
+      {
+        "titles": [
+          "Individual Step"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Squad Step"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Squad Step"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Tribe Step"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Company Step"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Dropbox": [
+      {
+        "titles": [
+          "IC1",
+          "Software Engineer (SWE)"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC2"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC4"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "IC5",
+          "Staff SWE"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "IC6",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 7
+      }
+      ,
+      {
+        "titles": [
+          "IC7",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Twitter": [
+      {
+        "titles": [
+          "Software Engineer (SWE)"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "SWE II"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Staff SWE"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Staff SWE"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal SWE"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Distinguished SWE"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Snap": [
+      {
+        "titles": [
+          "L1"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L2"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "L7"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L8"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "L9"
+        ],
+        "percentWorkforce": 4
+      }
+    ],
+    "Lyft": [
+      {
+        "titles": [
+          "T3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "T4"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "T5"
+        ],
+        "packages": [
+          {
+            "salary": 190000,
+            "bonus": 0,
+            "stock": 180000
+          }
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "T6"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "T7"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "T8"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "T9"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "IBM": [
+      {
+        "titles": [
+          "Associate Engineer",
+          "6"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Staff Engineer",
+          "7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Advisory Engineer",
+          "8"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Advisory Eng",
+          "9"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Technical Staff Member",
+          "STSM",
+          "10"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished Engineer",
+          "11"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "IBM / Lenovo Fellow",
+          "12"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Airbnb": [
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "L7"
+        ],
+        "percentWorkforce": 15
+      }
+    ],
+    "Tableau Software": [
+      {
+        "titles": [
+          "Software Engineer (SWE)"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Staff SWE"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "Principal SWE"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "Qualcomm": [
+      {
+        "titles": [
+          "Associate Engineer"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Staff Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Staff Eng"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Engineer Lead"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "T-Mobile": [
+      {
+        "titles": [
+          "Associate Engineer",
+          "T1"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Engineer",
+          "T2"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "T3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Principal Engineer",
+          "T4"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Member of Technical Staff",
+          "MTS",
+          "T5"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior MTS",
+          "T6"
+        ],
+        "percentWorkforce": 15
+      }
+    ],
+    "Cisco": [
+      {
+        "titles": [
+          "Software Engineer 1",
+          "Grade 4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer 2",
+          "Grade 6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer III",
+          "Grade 8"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Software Engineer IV",
+          "Grade 10"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Technical Leader 1",
+          "Grade 11"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Technical Leader 2",
+          "Grade 12"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Principal Engineer",
+          "Grade 13"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Distinguished Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Cisco Fellow"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Square": [
+      {
+        "titles": [
+          "Level 3"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Level 4"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Level 5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Level 6"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Level 7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Level 8"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "HBC Digital": [
+      {
+        "titles": [
+          "IC1",
+          "Software Engineer (SWE) I"
+        ],
+        "packages": [
+          {
+            "salary": 110000,
+            "bonus": 15000,
+            "stock": 0
+          }
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "IC2",
+          "SWE II"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "IC3",
+          "SWE III"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC4",
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC5",
+          "Staff SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC6",
+          "Principal SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC7",
+          "Distinguished SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "IC8",
+          "Fellow"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "Intel": [
+      {
+        "titles": [
+          "Grade 5"
+        ],
+        "percentWorkforce": 23,
+        "description": "New Grad (Bachelors)"
+      },
+      {
+        "titles": [
+          "Grade 6"
+        ],
+        "percentWorkforce": 10,
+        "description": "New Grad (Masters)"
+      },
+      {
+        "titles": [
+          "Grade 7"
+        ],
+        "percentWorkforce": 12,
+        "description": "New Grad (PhD)"
+      },
+      {
+        "titles": [
+          "Grade 8",
+          "Staff Engineer"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "Grade 9",
+          "Senior Staff Eng"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Grade 10",
+          "Principal Eng"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Grade 11",
+          "Senior Principal Eng"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Grade 12",
+          "Fellow"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Grade 13",
+          "Senior Fellow"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Workday": [
+      {
+        "titles": [
+          "P1",
+          "Software Engineer (SWE) I"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "P2",
+          "SWE II",
+          "Associate SWE"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "P3",
+          "SWE III"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "P4",
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "P5",
+          "Principal SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "P6",
+          "Senior Principal SWE"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "GE Digital": [
+      {
+        "titles": [
+          "Software Engineering Specialist"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Software Engineer (SWE)"
+        ],
+        "packages": [
+          {
+            "salary": 130000,
+            "bonus": 4000
+          }
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Staff SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Staff SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Principal SWE"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Chief SWE"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "Tesla": [
+      {
+        "titles": [
+          "P1",
+          "Associate Engineer"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "P2",
+          "Engineer"
+        ],
+        "percentWorkforce": 32
+      },
+      {
+        "titles": [
+          "P3",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "P4",
+          "Staff Engineer"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "P5",
+          "Sr. Staff Engineer"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "P6",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Pinterest": [
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "L7"
+        ],
+        "percentWorkforce": 6
+      }
+    ],
+    "Accenture": [
+      {
+        "titles": [
+          "Associate Software Engineer",
+          "ASE"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Software Engineer Analyst",
+          "SE"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "SSE"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Team Leader",
+          "TL"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Associate Manager",
+          "AM"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Manager",
+          "M"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Manager",
+          "SM"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Executive",
+          "SE"
+        ],
+        "percentWorkforce": 6
+      }
+    ],
+    "Capital One": [
+      {
+        "titles": [
+          "Associate Software Eng"
+        ],
+        "packages": [
+          {
+            "salary": 110000,
+            "bonus": 7500,
+            "stock": 7000
+          }
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Software Eng",
+          "Senior Associate"
+        ],
+        "packages": [
+          {
+            "salary": 122000,
+            "bonus": 7500,
+            "stock": 9000
+          }
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Software Eng",
+          "Principal Associate"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Master Software Eng"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Lead Software Eng"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Director of Software Eng"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Director of Software Eng"
+        ],
+        "percentWorkforce": 6
+      }
+    ],
+    "SquareSpace": [
+      {
+        "titles": [
+          "Software Engineer",
+          "E1"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Software Engineer",
+          "E2"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Software Engineer",
+          "E3"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "SE1"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "SE2"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Staff Software Engineer",
+          "PE"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Principal Software Engineer"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "GoDaddy": [
+      {
+        "titles": [
+          "Software Development Engineer (SDE) 1"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "SDE 2"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "SDE 3"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "SDE 4"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "SDE 5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "SDE 6"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Yandex": [
+      {
+        "titles": [
+          "G14"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "G15"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "G16"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "G17"
+        ],
+        "percentWorkforce": 19
+      },
+      {
+        "titles": [
+          "G18"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "G19"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "G20"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "G21"
+        ],
+        "percentWorkforce": 9
+      }
+    ],
+    "Veritas Technologies": [
+      {
+        "titles": [
+          "Associate Software Engineer"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Software Engineer"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "Senior SWE"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Principal SWE"
+        ],
+        "percentWorkforce": 9
+      },
+      {
+        "titles": [
+          "Senior Principal SWE"
+        ],
+        "percentWorkforce": 8.5
+      },
+      {
+        "titles": [
+          "Technical Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Distinguished Director"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Fellow"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "SmartThings": [
+      {
+        "titles": [
+          "Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Staff Software Engineer"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Splunk": [
+      {
+        "titles": [
+          "Software Engineer (SWE)",
+          "P2"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "P3"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "Senior Software Engineer",
+          "P4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal SWE",
+          "P5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Principal SWE",
+          "P6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Distinguished Engineer",
+          "P7"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Technical Fellow"
+        ],
+        "percentWorkforce": 4
+      }
+    ],
+    "Reddit": [
+      {
+        "titles": [
+          "L1"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "L2"
+        ],
+        "percentWorkforce": 12
+      },
+      {
+        "titles": [
+          "L3"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L6"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "L7"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "L8"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "L9"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "L10"
+        ],
+        "percentWorkforce": 4
+      }
+    ],
+    "Groupon": [
+      {
+        "titles": [
+          "SDE 1"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "SDE 2"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "SDE 3"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "SDE 4"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "SDE 5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "SDE 6"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "SDE 7"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "General Motors": [
+      {
+        "titles": [
+          "Software Engineer 1",
+          "L5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer 2",
+          "L6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer 3",
+          "L7"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Software Engineer 4",
+          "L8"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "Coursera": [
+      {
+        "titles": [
+          "Software Engineer I"
+        ],
+        "percentWorkforce": 0.191
+      },
+      {
+        "titles": [
+          "Software Engineer II"
+        ],
+        "percentWorkforce": 0.178
+      },
+      {
+        "titles": [
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 0.202
+      },
+      {
+        "titles": [
+          "Staff Software Engineer"
+        ],
+        "percentWorkforce": 0.139
+      },
+      {
+        "titles": [
+          "Senior Staff Software Engineer"
+        ],
+        "percentWorkforce": 0.167
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 0.124
+      }
+    ],
+    "PayPal": [
+      {
+        "titles": [
+          "T22",
+          "Software Engineer I",
+          "Technologist 1"
+        ],
+        "percentWorkforce": 8,
+        "description": "Bonus target: ~10% of salary"
+      },
+      {
+        "titles": [
+          "T23",
+          "Software Engineer II",
+          "Technologist 2"
+        ],
+        "percentWorkforce": 8,
+        "description": "Bonus target: 10% of salary"
+      },
+      {
+        "titles": [
+          "T24",
+          "Senior Software Engineer",
+          "Senior Technologist"
+        ],
+        "percentWorkforce": 8,
+        "description": "Bonus target: 10% of salary"
+      },
+      {
+        "titles": [
+          "T25",
+          "Staff Software Engineer 1",
+          "Member of Technical Staff 1"
+        ],
+        "percentWorkforce": 10,
+        "description": "Bonus target: 10% of salary"
+      },
+      {
+        "titles": [
+          "T26",
+          "Staff Software Engineer 2",
+          "Member of Technical Staff 2"
+        ],
+        "percentWorkforce": 10,
+        "description": "Bonus target: 15% of salary"
+      },
+      {
+        "titles": [
+          "T27",
+          "Senior Staff Software Engineer",
+          "Senior Member of Technical Staff"
+        ],
+        "percentWorkforce": 10,
+        "description": "Bonus target: 20% of salary"
+      },
+      {
+        "titles": [
+          "T28",
+          "Principal Software Engineer",
+          "Principal Technologist"
+        ],
+        "percentWorkforce": 7,
+        "description": "Bonus target: 25% of salary"
+      },
+      {
+        "titles": [
+          "T29",
+          "Distinguished Software Engineer",
+          "Distinguished Technologist"
+        ],
+        "percentWorkforce": 10,
+        "description": "Bonus target: 25%+ of salary"
+      }
+    ],
+    "Citrix Systems Inc": [
+      {
+        "titles": [
+          "Software Engineer I"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer II"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Senior Software Engineer I"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Senior Software Engineer II"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Staff Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal Software Engineer"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Udacity": [
+      {
+        "titles": [
+          "IC1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "IC2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "IC3"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "USAA": [
+      {
+        "titles": [
+          "Software Engineer III"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer II"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Software Engineer I"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Senior Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Lead Software Engineer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Architect"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Lead Architect"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "Tech Fellow"
+        ],
+        "percentWorkforce": 4
+      }
+    ],
+    "Indeed": [
+      {
+        "titles": [
+          "L0",
+          "SWE 0"
+        ],
+        "percentWorkforce": 7.000000000000001
+      },
+      {
+        "titles": [
+          "L1",
+          "SWE 1"
+        ],
+        "percentWorkforce": 14.000000000000002
+      },
+      {
+        "titles": [
+          "L2",
+          "SWE 2"
+        ],
+        "percentWorkforce": 21
+      },
+      {
+        "titles": [
+          "L3",
+          "SWE 3"
+        ],
+        "percentWorkforce": 27
+      },
+      {
+        "titles": [
+          "L4",
+          "Technical Fellow 4"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "L5",
+          "Technical Fellow 5"
+        ],
+        "percentWorkforce": 15
+      }
+    ],
+    "SAP": [
+      {
+        "titles": [
+          "T1",
+          "Associate Developer"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "T2",
+          "Developer"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "T3",
+          "Senior Developer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "T4",
+          "Architect"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "T5",
+          "Chief Architect"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Pivotal": [
+      {
+        "titles": [
+          "P1",
+          "Associate Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "P2"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "P3",
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "P4",
+          "Staff Engineer"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "P5",
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "P6",
+          "Senior Principal Engineer"
+        ],
+        "percentWorkforce": 13
+      }
+    ],
+    "Jedi Order": [
+      {
+        "titles": [
+          "Youngling"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Padawan"
+        ],
+        "percentWorkforce": 24
+      },
+      {
+        "titles": [
+          "Knight"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Master"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Grand Master"
+        ],
+        "percentWorkforce": 11
+      },
+      {
+        "titles": [
+          "Jedi Council"
+        ],
+        "percentWorkforce": 7.000000000000001
+      }
+    ],
+    "Sith Order": [
+      {
+        "titles": [
+          "Apprentice"
+        ],
+        "percentWorkforce": 26
+      },
+      {
+        "titles": [
+          "Hunter"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Battle Lord"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "Warlord"
+        ],
+        "percentWorkforce": 16
+      },
+      {
+        "titles": [
+          "Sith Lord"
+        ],
+        "percentWorkforce": 11
+      }
+    ]
+  },
+  "Product Designer" : {
+    "Facebook": [
+      {
+        "titles": [
+          "IC3"
+        ],
+        "percentWorkforce": 21
+      },
+      {
+        "titles": [
+          "IC4"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "IC5"
+        ],
+        "percentWorkforce": 22
+      },
+      {
+        "titles": [
+          "IC6"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "IC7"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "IC8"
+        ],
+        "percentWorkforce": 9
+      }
+    ],
+    "Google": [
+      {
+        "titles": [
+          "L3",
+          "Designer II"
+        ],
+        "percentWorkforce": 24
+      },
+      {
+        "titles": [
+          "L4",
+          "Designer III"
+        ],
+        "percentWorkforce": 24
+      },
+      {
+        "titles": [
+          "L5",
+          "Senior Designer"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L6",
+          "Staff Designer"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "L7",
+          "Senior Staff Designer"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "L8",
+          "Principal Designer"
+        ],
+        "percentWorkforce": 8
+      }
+    ],
+    "Amazon": [
+      {
+        "titles": [
+          "IC4",
+          "Associate Designer"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "IC5",
+          "Designer"
+        ],
+        "percentWorkforce": 24
+      },
+      {
+        "titles": [
+          "IC6",
+          "Senior Designer",
+          "Design Manager"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "IC7",
+          "Principal Designer",
+          "Senior Design Manager"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "IC8",
+          "Senior Principal Designer",
+          "Design Director"
+        ],
+        "percentWorkforce": 11
+      }
+    ],
+    "Uber": [
+      {
+        "titles": [
+          "Product Designer I",
+          "3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Product Designer II",
+          "4"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Designer I",
+          "5a"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Designer II",
+          "5b"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Staff Designer",
+          "Group Designer",
+          "6"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal Designer",
+          "7"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Principal Designer",
+          "8"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "LinkedIn": [
+      {
+        "titles": [
+          "Associate User Experience Designer (UED)"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "UED"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior UED"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Staff UED"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Principal UED"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Sr. Principal UED"
+        ],
+        "percentWorkforce": 14
+      }
+    ]
+  },
+  "Product Manager": {
+    "Google": [
+      {
+        "titles": [
+          "Associate Product Manager 1",
+          "APM1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Associate Product Manager 2",
+          "APM2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Product Manager 1",
+          "PM 1"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Product Manager 2",
+          "PM 2"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Product Manager 3",
+          "PM 3"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Senior Product Manager"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Group Product Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Director / VP",
+          "L9 / L10"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "Amazon": [
+      {
+        "titles": [
+          "Product Manager",
+          "L5"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Product Manager",
+          "L6"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Principal Product Manager",
+          "Senior Manager PM",
+          "L7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director",
+          "L8"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "VP",
+          "L10"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Microsoft": [
+      {
+        "titles": [
+          "59",
+          "PM 1"
+        ],
+        "percentWorkforce": 3
+      },
+      {
+        "titles": [
+          "60",
+          "PM 1"
+        ],
+        "percentWorkforce": 3
+      },
+      {
+        "titles": [
+          "61",
+          "PM 2"
+        ],
+        "percentWorkforce": 3
+      },
+      {
+        "titles": [
+          "62",
+          "PM 2"
+        ],
+        "percentWorkforce": 3
+      },
+      {
+        "titles": [
+          "63",
+          "Senior PM"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "64",
+          "Senior PM"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "65",
+          "Principal PM"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "66",
+          "Principal PM"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "67"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Partner",
+          "68"
+        ],
+        "percentWorkforce": 35
+      }
+    ],
+    "Facebook": [
+      {
+        "titles": [
+          "Rotational Product Manager (RPM)",
+          "L3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L4 Product Manager"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L5 Product Manager"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "L6 Product Manager"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "L7 Product Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Director"
+        ],
+        "percentWorkforce": 7
+      }
+    ],
+    "LinkedIn": [
+      {
+        "titles": [
+          "Associate Product Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Product Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Product Manager"
+        ],
+        "percentWorkforce": 35
+      },
+      {
+        "titles": [
+          "Principal Product Manager",
+          "Group Product Manager"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Director"
+        ],
+        "percentWorkforce": 14
+      }
+    ],
+    "Uber": [
+      {
+        "titles": [
+          "Associate Product Manager"
+        ],
+        "percentWorkforce": 18
+      },
+      {
+        "titles": [
+          "Product Manager I",
+          "PM 1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Product Manager II",
+          "PM 2"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Product Manager",
+          "Senior PM 1"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Senior Product Manager II",
+          "Senior PM 2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Group Product Manager",
+          "GPM"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "VP"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Salesforce": [
+      {
+        "titles": [
+          "Product Manager"
+        ],
+        "percentWorkforce": 22
+      },
+      {
+        "titles": [
+          "Senior Product Manager"
+        ],
+        "percentWorkforce": 23
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 22
+      },
+      {
+        "titles": [
+          "Senior Director"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "VP"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior VP"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "President"
+        ],
+        "percentWorkforce": 2
+      }
+    ],
+    "Intuit": [
+      {
+        "titles": [
+          "PM 1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "PM 2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior PM"
+        ],
+        "percentWorkforce": 35
+      },
+      {
+        "titles": [
+          "Principal PM",
+          "Group PM"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "VP"
+        ],
+        "percentWorkforce": 14
+      }
+    ],
+    "Twitter": [
+      {
+        "titles": [
+          "Associate Product Manager (PM)"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "PM I"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "PM II"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior PM"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Group PM"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "IBM": [
+      {
+        "titles": [
+          "Associate Offering Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Advisory Offering Manager"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "Senior Offering Manager"
+        ],
+        "percentWorkforce": 13
+      },
+      {
+        "titles": [
+          "Principal Offering Manager"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Program Director"
+        ],
+        "percentWorkforce": 14
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 17
+      },
+      {
+        "titles": [
+          "VP"
+        ],
+        "percentWorkforce": 17
+      }
+    ]
+  },
+  "Investment Banking": {
+    "Goldman Sachs": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "salary": "$70,000 + 40% Bonus",
+        "percentWorkforce": 30,
+        "packages": [
+          {
+            "salary": 70000,
+            "bonus": 28000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Executive Director / Vice-President"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Partner"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Morgan Stanley": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 25,
+        "packages": [
+          {
+            "salary": 76000,
+            "bonus": 39000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 85000,
+            "bonus": 34000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Vice President"
+        ],
+        "percentWorkforce": 30
+      },
+      {
+        "titles": [
+          "Executive Director"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Citi": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 85000,
+            "bonus": 34000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Vice President"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Bank of America Merrill Lynch": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 85000,
+            "bonus": 34000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Vice President"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "JPMorgan Chase": [
+      {
+        "titles": [
+          "Analyst",
+          "601"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 73000,
+            "bonus": 24000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate",
+          "602"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 97000,
+            "bonus": 27000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Vice President",
+          "603"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 139000,
+            "bonus": 46000,
+            "stock": 29000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Executive Director",
+          "604"
+        ],
+        "percentWorkforce": 15,
+        "packages": [
+          {
+            "salary": 198000,
+            "bonus": 135000,
+            "stock": 47000
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Managing Director",
+          "605"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "UBS": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 85000,
+            "bonus": 34000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate Director"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Executive Director"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Jefferies and Co": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 20,
+        "packages": [
+          {
+            "salary": 85000,
+            "bonus": 34000,
+            "stock": 0
+          }
+        ]
+      },
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Vice President"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 10
+      }
+    ],
+    "Barclays": [
+      {
+        "titles": [
+          "Analyst"
+        ],
+        "percentWorkforce": 25
+      },
+      {
+        "titles": [
+          "Assistant Vice-President"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Managing Director"
+        ],
+        "percentWorkforce": 20
+      }
+    ],
+    "Capital One": [
+      {
+        "titles": [
+          "Associate"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Senior Associate"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Principal Associate"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Senior Manager"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Director"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "Senior Director"
+        ],
+        "percentWorkforce": 6
+      },
+      {
+        "titles": [
+          "VP"
+        ],
+        "percentWorkforce": 6
+      }
+    ]
+  },
+  "Software Engineering Manager": {
+    "Google": [
+      {
+        "titles": [
+          "Manager",
+          "L5"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Manager (L6)",
+          "L6"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior Manager",
+          "L7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director",
+          "L8"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Senior Director",
+          "L9"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "VP",
+          "L10"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "SVP",
+          "L11"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Tesla": [
+      {
+        "titles": [
+          "M2",
+          "Associate Engineering Manager"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "M3",
+          "Engineering Manager"
+        ],
+        "percentWorkforce": 65
+      },
+      {
+        "titles": [
+          "M4",
+          "Sr. Engineering Manager"
+        ],
+        "percentWorkforce": 47
+      },
+      {
+        "titles": [
+          "M5",
+          "Engineering Director"
+        ],
+        "percentWorkforce": 40
+      },
+      {
+        "titles": [
+          "M6",
+          "Sr. Engineering Director"
+        ],
+        "percentWorkforce": 17
+      }
+    ],
+    "Amazon": [
+      {
+        "titles": [
+          "L5 SDM",
+          "Software Dev Manager"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "L6 SDM"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Senior SDM",
+          "L7"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Director",
+          "L8"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "VP",
+          "L10"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "SVP",
+          "L11"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Microsoft": [
+      {
+        "titles": [
+          "63",
+          "Senior Manager",
+          "SDE Lead"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "64"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Principal EM",
+          "Principal Director of Engineering",
+          "65"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "66"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Senior Director",
+          "67"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "GM, Partner",
+          "SDE Group Manager, Partner EM/Director",
+          "68"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "69"
+        ],
+        "percentWorkforce": 2
+      },
+      {
+        "titles": [
+          "VP",
+          "70"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Corporate VP",
+          "80"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Executive VP",
+          "81"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Oracle": [
+      {
+        "titles": [
+          "M2",
+          "Manager"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "M3",
+          "Senior Manager"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "M4",
+          "Director"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "M5",
+          "Senior Director"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "M6",
+          "VP"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Facebook": [
+      {
+        "titles": [
+          "M0"
+        ],
+        "percentWorkforce": 7,
+        "description": "Parallel to E5 in Engineering track"
+      },
+      {
+        "titles": [
+          "M1"
+        ],
+        "percentWorkforce": 22,
+        "description": "Equivalent to E6 in Engineering track"
+      },
+      {
+        "titles": [
+          "M2"
+        ],
+        "percentWorkforce": 17,
+        "description": "Equivalent to E7 in Engineering track"
+      },
+      {
+        "titles": [
+          "D1"
+        ],
+        "percentWorkforce": 15,
+        "description": "Equivalent to E8 in Engineering track"
+      },
+      {
+        "titles": [
+          "D2"
+        ],
+        "percentWorkforce": 10,
+        "description": "Equivalent to E9 in Engineering track"
+      },
+      {
+        "titles": [
+          "VP1"
+        ],
+        "percentWorkforce": 10,
+        "description": "Equivalent to E10 in Engineering track"
+      },
+      {
+        "titles": [
+          "VP2"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "VP3"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Uber": [
+    {
+      "titles": [
+        "EM 1"
+      ],
+      "percentWorkforce": 5
+    },
+    {
+      "titles": [
+        "EM 2"
+      ],
+      "percentWorkforce": 20
+    },
+    {
+      "titles": [
+        "Sr Eng Manager"
+      ],
+      "percentWorkforce": 20
+    },
+    {
+      "titles": [
+        "Director"
+      ],
+      "percentWorkforce": 15
+    },
+    {
+      "titles": [
+        "Sr Director"
+      ],
+      "percentWorkforce": 10
+    },
+    {
+      "titles": [
+        "VP"
+      ],
+      "percentWorkforce": 5
+    }
+  ]
+  },
+  "Biomedical Engineer": {
+    "Johnson and Johnson": [
+      {
+        "titles": [
+          "Engineer 1"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Engineer 2"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Engineer 3"
+        ],
+        "percentWorkforce": 20
+      },
+      {
+        "titles": [
+          "Engineer 4"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Engineer 5"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Engineer 6"
+        ],
+        "percentWorkforce": 7
+      },
+      {
+        "titles": [
+          "Fellow 1"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Fellow 2"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Fellow 3"
+        ],
+        "percentWorkforce": 5
+      }
+    ],
+    "Medtronic": [
+      {
+        "titles": [
+          "Associate Engineer"
+        ],
+        "percentWorkforce": 10,
+        "description": "Fresh Graduate / starting engineer"
+      },
+      {
+        "titles": [
+          "Engineer"
+        ],
+        "percentWorkforce": 20,
+        "description": "Typically 2-3 years of experience"
+      },
+      {
+        "titles": [
+          "Senior Engineer"
+        ],
+        "percentWorkforce": 20,
+        "description": "Typically 4-7 years of experience"
+      },
+      {
+        "titles": [
+          "Principal Engineer"
+        ],
+        "percentWorkforce": 15,
+        "description": "Typically 7-9 years of experience"
+      },
+      {
+        "titles": [
+          "Program Manager"
+        ],
+        "percentWorkforce": 10,
+        "description": "Typically 10+ years of experience"
+      }
+    ]
+  },
+  "Civil Engineer": {
+    "Kimley Horn": [
+      {
+        "titles": [
+          "Analyst",
+          "P-1"
+        ],
+        "percentWorkforce": 15
+      },
+      {
+        "titles": [
+          "Analyst",
+          "P-2"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Analyst",
+          "P-3"
+        ],
+        "percentWorkforce": 10
+      },
+      {
+        "titles": [
+          "Engineer",
+          "P-4"
+        ],
+        "percentWorkforce": 8
+      },
+      {
+        "titles": [
+          "Engineer",
+          "P-5"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "P-6"
+        ],
+        "percentWorkforce": 5
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "Vice President",
+          "P-7"
+        ],
+        "percentWorkforce": 4
+      },
+      {
+        "titles": [
+          "Senior Engineer",
+          "Senior Vice President"
+        ],
+        "percentWorkforce": 3
+      }
+    ]
+  }
+}

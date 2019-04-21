@@ -1,0 +1,72 @@
+{
+  "Google": {
+    "icon": "https://logo.clearbit.com/http://google.com",
+    "website": "https://google.com",
+    "companyName": "Google",
+    "description": "Google Inc., American search engine company, founded in 1998 by Sergey Brin and Larry Page that is a subsidiary of the holding company Alphabet Inc. More than 70 percent of worldwide online search requests are handled by Google, placing it at the heart of most Internet users' experience.",
+    "founders": "Larry Page & Sergey Brin",
+    "size": "100 TESTING",
+    "age": 5,
+    "perks": [
+      "Free Lunch",
+      "Free Snacks",
+      "Housing Stipend",
+      "Transportation",
+      "Health Benefits",
+      "Laundry @ Work",
+      "On-Site Gym"
+    ],
+    "stock": "It's good",
+    "complete": true
+  },
+  "Facebook": {
+    "icon": "https://logo.clearbit.com/facebook.com",
+    "website": "https://facebook.com",
+    "companyName": "Facebook",
+    "description": "Facebook is a social networking site that makes it easy for you to connect and share with your family and friends online. Originally designed for college students, Facebook was created in 2004 by Mark Zuckerberg while he was enrolled at Harvard University.",
+    "perks": [
+      "Free Lunch",
+      "Free Snacks",
+      "Housing Stipend",
+      "Rooftop Nature Park",
+      "On-Site Tire Replacement",
+      "On-Site Gym",
+      "Transportation",
+      "Health Benefits",
+      "Company Phones"
+    ],
+    "complete": true
+  },
+  "Microsoft": {
+    "icon": "https://logo.clearbit.com/microsoft.com",
+    "website": "https://microsoft.com",
+    "companyName": "Microsoft",
+    "description": "Microsoft develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers.",
+    "perks": [
+      "Free drinks",
+      "$800 per year for gym / sports",
+      "On site clinics",
+      "Housing stipend",
+      "Full relocation",
+      "Zero premium health insurance",
+      "Car detailing and wash at work",
+      "On site employee mall",
+      "Employee purchase program",
+      "Regional transit system"
+    ],
+    "complete": true
+  },
+  "Tesla": {
+    "icon": "https://logo.clearbit.com/tesla.com",
+    "website": "https://tesla.com",
+    "companyName": "Tesla"
+  },
+  "Intercom": {
+    "icon": "https://logo.clearbit.com/intercom.com",
+    "website": "https://intercom.com",
+    "companyName": "Intercom",
+    "description": "Intercom builds a suite of messaging-first products that all modern internet businesses can use to accelerate growth across the customer lifecycle, from acquisition, to engagement, and support. <br /><br />More than 30,000 businesses, including New Relic, Sotheby’s, and Shopify, use Intercom to connect with a billion unique people worldwide.",
+    "noPerks": true,
+    "complete": true
+  }
+}
