@@ -68,5 +68,35 @@
     "description": "Intercom builds a suite of messaging-first products that all modern internet businesses can use to accelerate growth across the customer lifecycle, from acquisition, to engagement, and support. <br /><br />More than 30,000 businesses, including New Relic, Sotheby’s, and Shopify, use Intercom to connect with a billion unique people worldwide.",
     "noPerks": true,
     "complete": true
+  },
+  "Amazon": {
+    "icon": "https://i.imgur.com/SEZpYZP.png"
+  },
+  "Oracle": {
+    "icon": "https://i.imgur.com/jekcOQw.png"
+  },
+  "LinkedIn": {
+    "icon": "https://i.imgur.com/pusu51v.png"
+  },
+  "Johnson and Johnson": {
+    "icon": "https://i.imgur.com/iBtgKr3.png"
+  },
+  "Medtronic": {
+    "icon": "https://i.imgur.com/On6JUYH.png"
+  },
+  "Goldman Sachs": {
+    "icon": "https://i.imgur.com/hKFuogh.png"
+  },
+  "Morgan Stanley": {
+    "icon": "https://i.imgur.com/zwTGmWK.png"
+  },
+  "Citi": {
+    "icon": "https://i.imgur.com/3jAbgtl.png"
+  },
+  "JPMorgan Chase": {
+    "icon": "https://i.imgur.com/nUrJYU6.png"
+  },
+  "Kimley Horn": {
+    "icon": "https://i.imgur.com/RcciK7N.png"
   }
 }

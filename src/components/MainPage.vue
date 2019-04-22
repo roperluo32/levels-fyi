@@ -43,29 +43,29 @@
               v-for="company in firstCompanies"
               :key="company"
               class="company-button"
-              >{{ company }}</el-button
+              ><img
+                :src="getIconOfCompany(company)"
+                alt=""
+                style="width:13px"
+              />
+              {{ company }}</el-button
             >
             <!-- 显示剩余公司的下拉框列表 -->
-            <el-popover
-              placement="bottom"
-              width="400"
-              trigger="click"
-              class="company-popover"
-            >
-              <p>hello</p>
-              <el-button slot="reference"
-                >More <i class="el-icon-arrow-down"></i
-              ></el-button>
-            </el-popover>
-            <!-- <el-select v-model="selectedCompany" filterable>
-              <el-option
-                v-for="company in lastCompanies"
-                :key="company"
-                :label="company"
-                :value="company"
-              >
-              </el-option>
-            </el-select> -->
+            <el-button round size="medium" v-show="hasMore">
+              More <i class="el-icon-arrow-down"></i>
+            </el-button>
+            <div class="popover">
+              <el-input
+                class="search_bar"
+                placeholder="Search Companies"
+                size="small"
+              ></el-input>
+              <ul>
+                <li v-for="company in lastCompanies" :key="company">
+                  {{ company }}
+                </li>
+              </ul>
+            </div>
           </el-col>
           <el-col :span="8" class="add-salary">
             <el-button class="salary-button" size="medium" round
@@ -154,9 +154,10 @@ export default {
         label: 'Civil Engineer'
       }],
       selectedJobType: 'Software Engineer', // 界面上选择的工作类型
-      jobTypeCompanies: [], // 选中工作类型对应的公司
       selectedCompany: '', // 选择的需要作对比的公司
-      companyLevelInfo: '' // 公司等级信息
+      companyLevelInfo: {}, // 公司等级信息
+      companyInfomation: {}, // 公司网址，logo等信息
+      searchCompanyText: '' // 搜索公司的搜索拦
     }
   },
   components: {
@@ -167,6 +168,9 @@ export default {
   methods: {
     // 获取某个职位对应的公司数组（原始的职位是一个对象，因此需要将对象中的key提炼出来变成一个数组）
     getKeysOfObject: function (obj) {
+      if (obj == null) {
+        return []
+      }
       var arr = Object.getOwnPropertyNames(obj)
       // 删除"__ob__"
       var idx = arr.indexOf('__ob__')
@@ -177,12 +181,16 @@ export default {
 
       return arr
     },
-
-    // 根据选择的工作类型，设置相应的公司数组
-    setCompaniesByJobType: function () {
-      console.log(this.companyLevelInfo[this.selectedJobType])
-      this.jobTypeCompanies = this.getKeysOfObject(this.companyLevelInfo[this.selectedJobType])
-      console.log('companies:', this.jobTypeCompanies)
+    getIconOfCompany: function (company) {
+      console.log('getIconOfCompany, company:', company)
+      console.log('companyInfomation:', this.companyInfomation)
+      var info = this.companyInfomation[company]
+      console.log('info:', info)
+      if (info != null) {
+        console.log('icon:', info.icon)
+        return info.icon
+      }
+      return ''
     }
   },
 
@@ -194,18 +202,36 @@ export default {
         console.log('data.json:', response)
         _this.companyLevelInfo = response.data
         _this.selectedJobType = 'Software Engineer' // 默认显示的是软件工程师
-        _this.setCompaniesByJobType()
+      })
+
+    axios.get('http://localhost:8080/static/companyInformation.json')
+      .then(function (response) {
+        console.log('companyInformation:', response)
+        _this.companyInfomation = response.data
       })
   },
 
   computed: {
     // 返回选中工作类型对应的公司中的前5个
     firstCompanies: function () {
-      return this.jobTypeCompanies.slice(0, 5)
+      console.log('this.companyLevelInfo:', this.companyLevelInfo)
+      var jobTypeCompanies = this.getKeysOfObject(this.companyLevelInfo[this.selectedJobType])
+      return jobTypeCompanies.slice(0, 5)
     },
     // 返回选中工作类型对应公司中第5个后面所有的公司
     lastCompanies: function () {
-      return this.jobTypeCompanies.slice(5)
+      var jobTypeCompanies = this.getKeysOfObject(this.companyLevelInfo[this.selectedJobType])
+      return jobTypeCompanies.slice(5)
+    },
+    // 判断是否还有更多公司
+    hasMore: function () {
+      var jobTypeCompanies = this.getKeysOfObject(this.companyLevelInfo[this.selectedJobType])
+      var companies = jobTypeCompanies.slice(5)
+      if (companies.length > 0) {
+        return true
+      }
+
+      return false
     }
   }
 
@@ -262,12 +288,40 @@ export default {
   width: 1170px;
 }
 
-#main-content .company-popover button {
-  border-radius: 20px;
-  margin-left: 10px;
-  font-size: 14px;
-  padding: 10px 20px;
+#main-content .popover {
+  float: right;
+  width: 298px;
+  margin-top: 10px;
+  border: 1px solid;
+  overflow: hidden;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+#main-content .popover ul {
+  overflow: hidden;
+  -webkit-padding-start: 0;
+  padding-left: 0;
+  cursor: pointer;
+}
+
+#main-content .popover li {
+  list-style-type: none;
   float: left;
+  width: 35%;
+  text-align: left;
+  padding: 2% 7%;
+}
+
+#main-content .popover .search_bar {
+  margin: 10px 10px 4px;
+  width: 90%;
+}
+
+#main-content .popover li:hover {
+  background-color: #f4f4f4;
+  text-decoration: none;
+  color: #333;
 }
 
 #main-content .choice-buttons {
